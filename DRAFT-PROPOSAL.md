@@ -6,7 +6,7 @@ This proposal outlines a vision for a Public Interest Technology collective that
 
 - The impact of an aging population combined with fewer available medical professionals on organized society.
 - Lack of access to privacy focused decentralized solutions 
-- A lack of privacy focused alternatives to big tech providers
+- ~~A lack of privacy focused alternatives to big tech providers~~
 - A "for-profit mentality" in the health industry that prioritizes financial gain over public health
 - A lack of a holistic approach to personal health that can contribute to poor health outcomes
 - Lack of health equity that leads to disparities in healthcare access and outcomes
