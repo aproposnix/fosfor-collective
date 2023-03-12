@@ -34,4 +34,4 @@ Public Health is facing numerous challenges, including a shortage of healthcare 
 
 These challenges are significant and can contribute to a lack of trust in health technologies. As a result, there is a pressing need for a Public Interest Technology organization that can develop open, transparent, and community-driven technologies that truly serve the public interest and can improve health outcomes for individuals and communities.
 
-> THis is incomplete... I'm woring my way down to a complete proposal. Feel free to contribute. 
+> THis is incomplete... I'm working my way down to a complete proposal. Feel free to contribute. 
