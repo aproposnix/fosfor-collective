@@ -4,7 +4,7 @@
 
 ## Summary 
 
-**Public Interest Technology** (PIT) is technology used to serve the public good and to address social challenges. This proposal outlines a vision for a Public Interest Technology collective (Fosfor) that is committed to developing solutions that serve in the public interests. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
+**Public Interest Technology** (PIT) is technology used to serve the public good and to address social challenges. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interests. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
 
 - The impact of fewer medical professionals on an aging society 
 - Lack of control of personal health data
@@ -34,7 +34,7 @@ Public Health is facing numerous challenges, including a shortage of healthcare 
 - **Lack of decentralized services** - Cloud solutions are everywhere but it's often foisted onto consumers in order to centralize the data to maximize the providers profits. Cloud solutions increase the attack surface for malicious hackers to gain access to millions of users' data making it a valuable target.  We need to rethink what  "the cloud" is and that should involve decentralized network solutions. 
 - **Mental healthcare in crisis**: According to the World Health Organization (WHO), one in four people in  the world will be affected by mental or neurological disorders at some point in their lives. Currently, around 450 million people suffer from such conditions, making mental disorders among the leading causes of poor health and disability worldwide.
 
-In response to these challenges, our proposed Public Interest Technology organization aims to develop open, transparent, and community driven technologies that truly serve the public interest and can improve health outcomes for individuals and communities.
+In response to these challenges, we propose the creation of a Public Interest Technology organization, Fosfor, which will aim to develop open, transparent, and community driven technologies that truly serve the public interest and improve health outcomes for it's users. 
 
 -----
 
@@ -136,8 +136,8 @@ By actively engaging with open-source communities and fostering partnerships, Fo
 **Challenges:**
 
 - **Securing Funding:** Public Interest Technology organizations often face challenges in obtaining funding. Fosfor must explore various funding sources, such as grants, donations, and sponsorships, to ensure its long-term sustainability.
-- **Competition with Established Organizations:** Competing with multi-billion dollar companies can be daunting. Fosfor should focus on its unique strengths and mission to differentiate itself from competitors.
-- **Navigating Regulatory Environments:** Compliance with health, data protection, and privacy regulations is essential. Fosfor must be aware of relevant regulations and develop strategies to navigate these complex environments.
+- **Building Awareness and Adoption:** Gaining visibility and promoting the adoption of Fosfor's solutions in a market dominated by established companies can be challenging. Fosfor needs to develop effective marketing and outreach strategies to create awareness of its mission and solutions, and encourage users to adopt its technologies.
+- **Building a Strong and Engaged Community:** Fosfor's success relies on the active participation and support of developers, users, and other stakeholders. Attracting and retaining a diverse and committed community can be challenging. Fosfor must develop strategies to encourage collaboration, engagement, and the sharing of ideas to ensure the collective's growth and sustainability.
 
 
 
@@ -146,10 +146,13 @@ By actively engaging with open-source communities and fostering partnerships, Fo
 Fosfor Collective sets itself apart within the personal health and fitness industry by embracing the following key principles:
 
 - **Privacy and Transparency:** By prioritizing user privacy and transparent data practices, Fosfor addresses growing concerns about data security and offers users an alternative to proprietary products that may lack transparency.
-- **Commitment to Free and Open Source Software (FOSS):** Fosfor's dedication to FOSS fosters a collaborative environment and enables the organization to leverage the global community of developers and experts. This commitment ensures that Fosfor's solutions remain accessible, adaptable, and scalable.
-- **Alignment with Public Interest Technology Values:** Fosfor's focus on social impact and community-driven innovation demonstrates its dedication to addressing societal challenges and creating solutions that benefit the greater good.
+- **Free and Open Source Software (FOSS) Commitment:** Fosfor's dedication to FOSS promotes collaboration and facilitates contributions from a global community of developers and experts. This commitment helps ensure that Fosfor's solutions are more accessible, adaptable, and scalable than proprietary alternatives.
+- **Technology for People, not profit:** Fosfor's focus on social impact and innovation demonstrates its dedication to addressing societal challenges and creating solutions that benefit the greater good.
+- **Focus on Healthy Aging:** By emphasizing healthy aging, Fosfor aims to address the needs of an increasingly aging population and promote overall well-being throughout all stages of life.
 
-Through its unique approach, Fosfor differentiates itself from competitors in the personal health and fitness market. This market positioning appeals to a target audience that values social impact, community-driven innovation, and a commitment to privacy and transparency.
+Through its unique approach, Fosfor differentiates itself from competitors in the personal health and fitness market. This market positioning appeals to a target audience that values social impact, innovation, and a commitment to privacy and transparency
+
+
 
 ### Growth Potential (150-250 words)
 
@@ -157,7 +160,7 @@ The Public Interest Technology and Opensource health solutions sectors  are expe
 
 ### Market Analysis Conclusion (50-100 words)
 
-The Market Analysis reveals ample opportunities for Fosfor within the  Public Interest Technology landscape, particularly in addressing gaps in public health and leveraging the power of Opensource communities. By  understanding the competitive landscape and addressing the needs of its  target audience, Fosfor can establish itself
+The Market Analysis reveals ample opportunities for the proposed Fosfor  collective within the PIT landscape, particularly in addressing gaps in public health and leveraging the power of  Opensource communities. By thoroughly examining the competitive landscape and addressing the needs of its target audience, Fosfor can effectively position itself as a key player in the PIT landscape.
 
 ## Organizational Structure:
 
