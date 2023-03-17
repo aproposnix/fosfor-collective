@@ -38,35 +38,34 @@ In response to these problems, we propose the creation of a Public Interest Tech
 
 -----
 
-## Solution 
+## Solution
 
-> 🛑  INCOMPLETE 🛑
+To mitigate the problems identified, Fosfor will work towards identifying areas of need and then proposing and then developing solutions for the identified issues.
 
-Our main objective is the creation and dissemination of public interest technologies focused on improving the health of its users. We will focus on delivering freely available and Opensource software.
+### Develop Digital Solutions
 
-### Creation of Open Solutions
+The primary objective of Fosfor is to seek out and identify ways to use technology to mitigate societal issues. As health is fundamental to our existence, Fosfor will focus on delivering solutions that provide users with the necessary tools to maintain their health while ensuring security and privacy. Some examples of potential deliverables include:
 
-The whole point of the organization is to deliver publicly accessible technologies. We believe that health is a fundamental thing that most people agree is a basic human right. 
+- Data Aggregation Toolkit: Provide a set of tools that help users automate or simplify the collection of personal health and fitness data. This toolkit could serve as the foundation for an ecosystem of applications, allowing users to add and remove apps based on their needs.
+- Assistive Technologies: Develop free and open alternatives to existing proprietary assistive technologies that support people with various needs.
+- Life Transition Management: Create solutions that enable individuals to monitor and maintain their health as they age. Imagine a system that establishes a baseline health level and informs users of changes to that baseline.
 
-- personal health and fitness
-  - Address both physical and mental health aspects
-- Develop an ecosystem of personal health apps in collaboration with the FOSS community
-  - Enable data sharing between apps
-- Provide a FOSS toolkit for health data aggregation
+Fosfor believes that an over-dependence on closed and proprietary software is not beneficial for modern society. People should always have access to tools that are free from commercial tracking and respect user privacy without compromise.
 
 ### Building Community
 
-An important function of the Fosfor collective is to build communities. Not just to build communities, but to bridge communities. 
+An essential function of the Fosfor collective is to build and bridge communities.
 
-- Collaborate with existing FOSS projects to create new health tools
-- Engage medical professionals to ensure evidence-based solutions and avoid pseudoscience
+- Develop a partner network of organizations with similar goals to collaborate on joint projects.
+- Engage medical professionals to ensure evidence-based solutions and avoid pseudoscience.
+- Facilitate the creation of local health communities that can provide support and guidance on tool development. This will form the user community.
 
 ### Educating the Public
 
-Educating the public on personal health is critical to the success of the mission. 
+Educating the public on personal health is critical to the success of Fosfor's mission.
 
-- Develop tools that support and educate users
-- Promote awareness and understanding of the benefits and effective use of the tools
+- Develop tools that support and educate users.
+- Promote awareness and understanding of the benefits and effective use of the tools.
 
 
 
