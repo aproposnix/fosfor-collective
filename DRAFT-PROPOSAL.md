@@ -1,10 +1,10 @@
-# Proposal: Creating a Public Interest Technology Organization
+# Proposal: Public Interest Technology Collective
 
 <!--fosfor collective proposal development--> 
 
 ## Summary 
 
-**Public Interest Technology** (PIT) is technology used to serve the public good and to address social challenges. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interests. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
+**Public Interest Technology** (PIT) is technology used to serve the public good and to address social issues. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interest. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
 
 - The impact of fewer medical professionals on an aging society 
 - Lack of control of personal health data
@@ -25,7 +25,7 @@ Together, we can build an organization that is committed to serving the public i
 
 ## Problem Statement
 
-Public Health is facing numerous challenges, including a shortage of healthcare professionals, an aging population and disparities in access and outcomes.  These challenges are further exacerbated by proprietary and privacy invasive health technologies that limit individual control over personal health data, exclude underrepresented groups, and prioritize profit over public health and well being. Developing community driven technologies that prioritize public accessibility, inclusivity, and health equity while empowering individuals to take control of their health data and decisions, is critical to addressing these challenges.
+Public Health is facing numerous problems, including a shortage of healthcare professionals, an aging population and disparities in access and outcomes.  These challenges are further exacerbated by proprietary and privacy invasive health technologies that limit individual control over personal health data, exclude underrepresented groups, and prioritize profit over public health and well being. Developing technologies that prioritize public accessibility, inclusivity, and health equity while empowering individuals to take control of their health data and decisions, is critical to addressing these challenges.
 
 - **Aging Population** : The WHO has estimated that by 2050 the number of persons 60+ year will be 2 billion. This will likely cause burdens on the already burdened healthcare systems.  Therefore, it is essential to address the needs of this growing population and develop effective solutions to ensure healthy aging and overall wellbeing. 
 - **Fewer Medical Professionals**: The impact of fewer health professionals combined with an aging population can result in an overwhelmed healthcare system, with longer wait times for medical attention, fewer resources available for patient care, and limited access to medical professionals. This can lead to poorer health outcomes for individuals and a strain on the healthcare system as a whole. It is vitally important to empower people with the tools needed to mitigate the resulting issues. 
@@ -34,7 +34,7 @@ Public Health is facing numerous challenges, including a shortage of healthcare 
 - **Lack of decentralized services** - Cloud solutions are everywhere but it's often foisted onto consumers in order to centralize the data to maximize the providers profits. Cloud solutions increase the attack surface for malicious hackers to gain access to millions of users' data making it a valuable target.  We need to rethink what  "the cloud" is and that should involve decentralized network solutions. 
 - **Mental healthcare in crisis**: According to the World Health Organization (WHO), one in four people in  the world will be affected by mental or neurological disorders at some point in their lives. Currently, around 450 million people suffer from such conditions, making mental disorders among the leading causes of poor health and disability worldwide.
 
-In response to these challenges, we propose the creation of a Public Interest Technology organization, Fosfor, which will aim to develop open, transparent, and community driven technologies that truly serve the public interest and improve health outcomes for it's users. 
+In response to these problems, we propose the creation of a Public Interest Technology organization, Fosfor, which will aim to develop open, transparent, and community driven technologies that truly serve the public interest and improve health outcomes for it's users. 
 
 -----
 
@@ -46,9 +46,9 @@ Our main objective is the creation and dissemination of public interest technolo
 
 ### Creation of Open Solutions
 
-The whole point of the organization is to deliver public interest technologies. We believe that health is a fundamental thing that most people agree is a basic human right. 
+The whole point of the organization is to deliver publicly accessible technologies. We believe that health is a fundamental thing that most people agree is a basic human right. 
 
-- Focus on public interest and personal health
+- personal health and fitness
   - Address both physical and mental health aspects
 - Develop an ecosystem of personal health apps in collaboration with the FOSS community
   - Enable data sharing between apps
@@ -85,7 +85,7 @@ This analysis will help Fosfor make informed strategic decisions, ensuring the o
 
 Public Interest Technology (PIT) is an evolving field that aims to harness the power of technology, innovation, and collaboration to address pressing societal issues, particularly in areas such as public health, education, and social justice. The future of PIT holds promising growth as more diverse organizations, including universities, nonprofits, and private companies, acknowledge the importance of integrating public interest values into their operations [[1](https://ssir.org/articles/entry/public_interest_technology_bridge_to_the_future)].
 
-One major trend within the PIT landscape is the increasing role of technology in public health, with innovations such as electronic health records, mobile health applications, and telehealth services revolutionizing healthcare delivery and personal wellbeing [[5](https://mphdegree.usc.edu/blog/public-health-technology/)]. As the demand for tech solutions addressing societal challenges continues to rise, organizations like the Fosfor Collective, which focus on personal health and fitness, have the opportunity to make a significant impact by offering tailored solutions.
+One major trend within the PIT landscape is the increasing role of technology in public health, with innovations such as electronic health records, mobile health applications, and telehealth services revolutionizing healthcare delivery and personal wellbeing [[5](https://mphdegree.usc.edu/blog/public-health-technology/)]. As the demand for tech solutions addressing societal issues continues to rise, organizations like the Fosfor Collective, which focus on personal health and fitness, have the opportunity to make a significant impact by offering tailored solutions. [🛑 REVIEW THE ENTIRE SECTION]
 
 The PIT landscape is also witnessing a growth in cross-sector collaborations, with a diverse range of organizations working together to design and deploy responsible and equitable technology solutions [[3](https://ssir.org/articles/entry/building_the_public_interest_technology_infrastructure_of_the_future)]. This collaborative approach enables knowledge sharing and resource pooling, which can lead to more effective and sustainable solutions.
 
@@ -130,12 +130,12 @@ By actively engaging with open-source communities and fostering partnerships, Fo
 **Opportunities:**
 
 - **Addressing Market Gaps:** Fosfor has the opportunity to address unmet needs within personal health and fitness, particularly for underrepresented populations and underserved areas, creating solutions with high social impact.
-- **Growing Interest in Open Source:** The increasing interest in open-source software and collaborative projects allows Fosfor to leverage a global community of developers and experts to drive innovation in the personal health and fitness space.
+- **Growing Interest in Opensource:** The increasing interest in open-source software and collaborative projects allows Fosfor to leverage a global community of developers and experts to drive innovation in the personal health and fitness space.
 - **Privacy and Transparency Concerns:** As concerns over privacy and data security grow, Fosfor can differentiate itself by prioritizing user privacy and transparency, setting it apart from proprietary competitors.
 
 **Challenges:**
 
-- **Securing Funding:** Public Interest Technology organizations often face challenges in obtaining funding. Fosfor must explore various funding sources, such as grants, donations, and sponsorships, to ensure its long-term sustainability.
+- **Securing Funding:** Social interest organizations often face challenges in obtaining funding. Fosfor must explore various funding sources, such as grants, donations, and sponsorships, to ensure its long-term sustainability.
 - **Building Awareness and Adoption:** Gaining visibility and promoting the adoption of Fosfor's solutions in a market dominated by established companies can be challenging. Fosfor needs to develop effective marketing and outreach strategies to create awareness of its mission and solutions, and encourage users to adopt its technologies.
 - **Building a Strong and Engaged Community:** Fosfor's success relies on the active participation and support of developers, users, and other stakeholders. Attracting and retaining a diverse and committed community can be challenging. Fosfor must develop strategies to encourage collaboration, engagement, and the sharing of ideas to ensure the collective's growth and sustainability.
 
@@ -146,7 +146,7 @@ By actively engaging with open-source communities and fostering partnerships, Fo
 Fosfor Collective sets itself apart within the personal health and fitness industry by embracing the following key principles:
 
 - **Privacy and Transparency:** By prioritizing user privacy and transparent data practices, Fosfor addresses growing concerns about data security and offers users an alternative to proprietary products that may lack transparency.
-- **Free and Open Source Software (FOSS) Commitment:** Fosfor's dedication to FOSS promotes collaboration and facilitates contributions from a global community of developers and experts. This commitment helps ensure that Fosfor's solutions are more accessible, adaptable, and scalable than proprietary alternatives.
+- **Free and Opensource Software (FOSS) Commitment:** Fosfor's dedication to FOSS promotes collaboration and facilitates contributions from a global community of developers and experts. This commitment helps ensure that Fosfor's solutions are more accessible, adaptable, and scalable than proprietary alternatives. [🛑 REVIEW NEEDED - long title]
 - **Technology for People, not profit:** Fosfor's focus on social impact and innovation demonstrates its dedication to addressing societal challenges and creating solutions that benefit the greater good.
 - **Focus on Healthy Aging:** By emphasizing healthy aging, Fosfor aims to address the needs of an increasingly aging population and promote overall well-being throughout all stages of life.
 
@@ -196,7 +196,7 @@ By adopting a sociocratic organizational structure, our non-profit technology co
 
 [Insert a plan for how you will evaluate the effectiveness of your products or services and measure their impact on the problem you are seeking to solve. This should include metrics and indicators that will be used to assess success, as well as plans for regular reporting and communication of impact.
 
-In the context of a proposal for the creation of a Public Interest Technology Collective, the Evaluation and Impact Assessment Plan section would outline how the success and impact of the collective's work will be evaluated and measured.]
+In the context of a proposal for the creation of a Technology Collective, the Evaluation and Impact Assessment Plan section would outline how the success and impact of the collective's work will be evaluated and measured.]
 
 ## Risks and Issues 
 
@@ -205,4 +205,13 @@ In the context of a proposal for the creation of a Public Interest Technology Co
 
 
 ## Conclusion
-> to be completed. 
+
+[Insert a summary of the proposal and a call to action for potential partners and stakeholders to support the creation of your Technology Collective.]
+
+In conclusion, this proposal presents a vision for a Public Interest Technology collective called "Fosfor" that aims to address the pressing challenges faced by society in the realm of public health. By developing open and transparent solutions that empower individuals to take control of their health data and decisions, we can contribute to a healthier and more equitable society. 
+
+Fosfor seeks to create an ecosystem of health-focused technologies by collaborating with the FOSS community, medical professionals, and other stakeholders. Our sociocratic organizational structure ensures inclusivity, effective communication, and shared decision-making, fostering a culture of continuous learning and improvement.
+
+We invite potential partners, stakeholders, and passionate individuals who share our vision for using technology for social good to join us in building Fosfor. Together, we can create a positive impact on individuals and society as a whole, promoting public health and well-being through accessible, equitable, and impactful technology solutions.
+
+With your support, we can make Fosfor a reality, and work towards a future where technology truly serves the public interest and addresses the critical challenges faced by society today. Let's join forces to make a difference in the world of public health and improve the lives of individuals and communities across the globe.
