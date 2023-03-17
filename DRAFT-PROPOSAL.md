@@ -2,6 +2,8 @@
 
 <!--fosfor collective proposal development--> 
 
+<!--“By striving to do the impossible, man has always achieved what is possible. Those who have cautiously done no more than they believed possible have never taken a single step forward.” - Mikhail Bakunin -->
+
 ## Summary 
 
 **Public Interest Technology** (PIT) is technology used to serve the public good and to address social issues. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interest. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
