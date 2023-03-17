@@ -4,6 +4,17 @@
 
 <!--“By striving to do the impossible, man has always achieved what is possible. Those who have cautiously done no more than they believed possible have never taken a single step forward.” - Mikhail Bakunin -->
 
+
+
+> **TL;DR**: This is a proposal for a Public Interest Technology collective called "Fosfor". I have created this document for two reasons:
+>
+> 1. To put down into written form, the idea I have had in my head for the past 5 years (at least). There's way more to discuss but it's beyond the scope of this doc. 
+> 2. In the hope of finding other individuals who would like to pursue this vision. All I am proposing, is an organization that is run by the people using it. 
+>
+> Please note that this document is under constant change, as it should be. 
+
+> 🔴 This is not a proposal for an organization peddling blockchain miracles. 
+
 ## Summary 
 
 **Public Interest Technology** (PIT) is technology used to serve the public good and to address social issues. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interest. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
@@ -75,24 +86,31 @@ Educating the public on personal health is critical to the success of Fosfor's m
 
 ### Introduction
 
-The purpose of this market analysis for the Fosfor Collective, a Public Interest Technology (PIT) organization is to understand the the following: 
+The purpose of this market analysis for the Fosfor Collective, a Public Interest Technology (PIT) organization, is to understand the the following: 
 
 - Identification of of key players and their trends 
-- evaluate potential opportunities and challenges
+- Evaluating potential opportunities and challenges
 
-This analysis will help Fosfor make informed strategic decisions, ensuring the organization effectively addresses the needs of its target audience and remains competitive in the evolving Public  Interest Technology sector.
+This analysis will help Fosfor make informed strategic decisions, ensuring the organization effectively addresses the needs of its target audience and remains competitive in the evolving technology domain.
 
-### Public Interest Technology Landscape
 
-Public Interest Technology (PIT) is an evolving field that aims to harness the power of technology, innovation, and collaboration to address pressing societal issues, particularly in areas such as public health, education, and social justice. The future of PIT holds promising growth as more diverse organizations, including universities, nonprofits, and private companies, acknowledge the importance of integrating public interest values into their operations [[1](https://ssir.org/articles/entry/public_interest_technology_bridge_to_the_future)].
 
-One major trend within the PIT landscape is the increasing role of technology in public health, with innovations such as electronic health records, mobile health applications, and telehealth services revolutionizing healthcare delivery and personal wellbeing [[5](https://mphdegree.usc.edu/blog/public-health-technology/)]. As the demand for tech solutions addressing societal issues continues to rise, organizations like the Fosfor Collective, which focus on personal health and fitness, have the opportunity to make a significant impact by offering tailored solutions. [🛑 REVIEW THE ENTIRE SECTION]
+### Market Landscape
 
-The PIT landscape is also witnessing a growth in cross-sector collaborations, with a diverse range of organizations working together to design and deploy responsible and equitable technology solutions [[3](https://ssir.org/articles/entry/building_the_public_interest_technology_infrastructure_of_the_future)]. This collaborative approach enables knowledge sharing and resource pooling, which can lead to more effective and sustainable solutions.
+The market landscape for personalized health and fitness includes several key trends and factors that present both opportunities and challenges for organizations like the Fosfor Collective.
 
-Open-source software and communities play a crucial role in the PIT ecosystem, promoting collaboration, knowledge sharing, and accessible solutions that can be adapted and scaled to address various challenges. The open-source nature of these solutions allows organizations like the Fosfor Collective to leverage existing resources and adapt them to meet the unique needs of their target audience.
+**Key Trends and Factors**
 
-In this expanding and competitive landscape, the Fosfor Collective can differentiate itself by focusing on its unique approach, target audience, and the specific needs it addresses within personal health and fitness. By staying abreast of emerging trends and forging strategic partnerships, the Fosfor Collective can establish itself as a key player within the PIT sector.
+| Trend/Factor        | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| Wearables           | The global wearables market continues to grow, with a predicted market value of USD 62.82 billion by 2026. Wearable technology is increasingly being integrated with personal health and fitness devices, enabling users to track and monitor their health data with ease . |
+| Aging Population    | As the population ages, there is a greater need for health monitoring and management. This presents a significant opportunity for personal health and fitness organizations to offer tailored solutions to meet the unique needs of older adults. |
+| Privacy             | There is growing demand for data privacy and security in the personal health and fitness sector. A study published in The BMJ found that many mobile health and fitness apps are not doing enough to protect users' private information. |
+| Opensource Adoption | The increasing adoption of opensource software across industries offers potential benefits to the personal health and fitness sector. Fosfor Collective can leverage this trend, utilizing existing code to create tailored, collaborative, and accessible solutions for their target audience. |
+
+In summary, the market landscape presents several opportunities for the Fosfor Collective in the personal health and fitness community. By  taking advantage of wearable technology, catering to the needs of an  aging population, focusing on privacy, and embracing the benefits of  opensource adoption, Fosfor Collective can offer free and accessible  resources to their target audience.
+
+
 
 ### Competitive Landscape
 
@@ -109,18 +127,18 @@ The personal health and fitness sector features a diverse mix of organizations a
 | Peloton                     | Offers at-home fitness equipment, streaming workout classes, and a comprehensive fitness app. | Around $9.48 billion               |
 | **Combined Total**          | ➡                                                            | **Over $4.1 trillion**             |
 
-These companies have developed a strong market presence by offering user-friendly and comprehensive health and fitness solutions that cater to the general public. They possess distinct strengths, such as brand recognition, technological expertise, and the ability to attract a large user base.
+These companies have a strong market presence due to their extensive resources and strategic acquisitions, which allow them to dominate the market. They offer user-friendly interfaces. They also leverage their financial power to maintain a competitive advantage. The ability to attract a large user base through coercion and manipulation contributes to their ongoing success.
 
 Competing with these closed and proprietary solutions presents challenges for Fosfor, such as the need to:
 
 - Differentiate Fosfor's offerings
 - Create user-friendly interfaces
 - Effectively promote the benefits of open-source solutions
-- Relentlessly attack them on their transparency and privacy policies and act as a watchdog against what they do. 
+- Relentlessly critique them on their transparency and privacy policies and act as a watchdog against what they do. 
 
 To establish a competitive advantage, Fosfor must stay aware of the strengths and weaknesses of these proprietary organizations, as well as potential opportunities or threats they pose.
 
-**Open-Source Projects and Partnerships:** In the open-source landscape, several projects and organizations focus on personal health and fitness. Although no single organization currently dominates this space, a variety of projects and communities contribute to the development of open-source health and fitness applications. These projects can be considered potential partners for the Fosfor Collective, as they align with its mission to leverage existing code and collaborate with others in the FOSS community.
+**Projects and Partnerships:** In the open-source landscape, several projects and organizations focus on personal health and fitness. Although no single organization currently dominates this space, a variety of projects and communities contribute to the development of open-source health and fitness applications. These projects can be considered potential partners for the Fosfor Collective, as they align with its mission to leverage existing code and collaborate with others in the FOSS community.
 
 By actively engaging with open-source communities and fostering partnerships, Fosfor can drive innovation in the personal health and fitness space, ultimately benefiting both the Fosfor Collective and the projects they collaborate with.
 
@@ -142,18 +160,20 @@ By actively engaging with open-source communities and fostering partnerships, Fo
 
 
 
-### Fosfor's Market Positioning
+### Market Positioning
 
 Fosfor Collective sets itself apart within the personal health and fitness industry by embracing the following key principles:
 
 - **Privacy and Transparency:** By prioritizing user privacy and transparent data practices, Fosfor addresses growing concerns about data security and offers users an alternative to proprietary products that may lack transparency.
-- **Free and Opensource Software (FOSS) Commitment:** Fosfor's dedication to FOSS promotes collaboration and facilitates contributions from a global community of developers and experts. This commitment helps ensure that Fosfor's solutions are more accessible, adaptable, and scalable than proprietary alternatives. [🛑 REVIEW NEEDED - long title]
+- **Public Money, Public Code*:** Fosfor's dedication to FOSS promotes collaboration and facilitates contributions from a global community of developers and experts. This commitment helps ensure that Fosfor's solutions are more accessible, adaptable, and scalable than proprietary alternatives.
 - **Technology for People, not profit:** Fosfor's focus on social impact and innovation demonstrates its dedication to addressing societal challenges and creating solutions that benefit the greater good.
 - **Focus on Healthy Aging:** By emphasizing healthy aging, Fosfor aims to address the needs of an increasingly aging population and promote overall well-being throughout all stages of life.
 
+[*]: https://publiccode.eu/en/
+
 Through its unique approach, Fosfor differentiates itself from competitors in the personal health and fitness market. This market positioning appeals to a target audience that values social impact, innovation, and a commitment to privacy and transparency
 
-### Growth Potential
+### Market Growth Potential
 
 The demand for innovative, transparent, and accessible health solutions is anticipated to grow in the coming years, driven by increasing concerns around privacy, data security, and the need for equitable access to healthcare technologies. Fosfor, with its commitment to opensource software, user privacy, and addressing the needs of underrepresented populations, is well-positioned to capture this growth.
 
@@ -200,7 +220,6 @@ By adopting a sociocratic organizational structure, our non-profit technology co
 In the context of a proposal for the creation of a Technology Collective, the Evaluation and Impact Assessment Plan section would outline how the success and impact of the collective's work will be evaluated and measured.]
 
 ## Risks and Issues 
-
 
 
 
