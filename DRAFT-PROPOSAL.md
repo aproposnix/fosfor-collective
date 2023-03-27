@@ -16,26 +16,24 @@
 > 🔴 This is not a proposal for an organization peddling blockchain miracles. 
 
 ## Summary 
+**Public Interest Technology** (PIT) is  technology used to serve the public good and to address social issues.  This proposal outlines a vision for creating a Public Interest  Technology collective, Fosfor, which will be committed to developing  solutions that serve in the public interest. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the  organization aims to address include:
 
-**Public Interest Technology** (PIT) is technology used to serve the public good and to address social issues. This proposal outlines a vision for creating a Public Interest Technology collective, Fosfor, which will be committed to developing solutions that serve in the public interest. Fosfor seeks to address multiple challenges facing society today by developing solutions to mitigate the impact of those risks and issues. Some challenges the organization aims to address include: 
-
-- The impact of fewer medical professionals on an aging society 
+- The impact of fewer medical professionals on an aging society
 - Lack of control of personal health data
-- Individuals lacking the tools to fully utilize their personally collected health data 
+- Individuals lacking the tools to fully utilize their personally collected health data
 - A "for-profit mentality" in the health industry that prioritizes financial gain over public health
 - A lack of a holistic approach to personal health that can contribute to poor health outcomes
 - Lack of health equity that leads to disparities in healthcare access and outcomes
 
-We propose to develop non-proprietary solutions that are open, transparent, and community driven. Our solutions aim to empower individuals to take control of their life by providing them with tools that offer a holistic view of their health, enabling them to make informed decisions about their lifestyle and wellbeing. 
+We propose to develop non-proprietary solutions that are  open, transparent, and community driven. Our solutions aim to empower  individuals to take control of their life by providing them with tools  that offer a holistic view of their health, enabling them to make  informed decisions about their lifestyle and wellbeing.
 
-By joining forces with like minded individuals who are passionate about using technology for social good, we can create technology solutions that are:
+By joining forces with like minded individuals who are  passionate about using technology for social good, we can create  technology solutions that are:
 
 - **Accessible** and inclusive, serving diverse communities and populations
 - **Equitable**, addressing disparities in healthcare access and outcomes
 - **Impactful**, making a positive impact on individuals and society as a whole
 
-Together, we can build an organization that is committed to serving the public interest and making a positive impact on individuals and society as a whole. We invite individuals who share our vision and passion for using technology for social good to join us in building this organization.
-
+Together, we can build an organization that is committed  to serving the public interest and making a positive impact on individuals and society as a whole. We invite individuals who share our vision and passion for using technology for social good to join us in building this organization.
 ## Problem Statement
 
 Public Health is facing numerous problems, including a shortage of healthcare professionals, an aging population and disparities in access and outcomes.  These challenges are further exacerbated by proprietary and privacy invasive health technologies that limit individual control over personal health data, exclude underrepresented groups, and prioritize profit over public health and well being. Developing technologies that prioritize public accessibility, inclusivity, and health equity while empowering individuals to take control of their health data and decisions, is critical to addressing these challenges.
